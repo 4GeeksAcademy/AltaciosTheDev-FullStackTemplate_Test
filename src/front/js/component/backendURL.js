@@ -9,7 +9,7 @@ export const BackendURL = () => (
 		<p>There's a file called <Dark>.env</Dark> that contains the environmental variables for your project.</p>
 		<p>There's one variable called <Dark>BACKEND_URL</Dark> that needs to be manually set by yourself.</p>
 		<ol>
-			<li>Make sure you backend is running on port 3001.</li>
+			<li>Make sure you backend llllis running on port 3001.</li>
 			<li>Open your API and copy the API host.</li>
 			<li>Open the .env file (do not open the .env.example)</li>
 			<li>Add a new variable BACKEND_URL=<Dark>your api host</Dark></li>
